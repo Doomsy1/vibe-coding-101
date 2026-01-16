@@ -82,7 +82,7 @@ These are basically really good prompts that the model can decide to use. They m
 Cool trick: you can start multiple sessions and have them running in parallel, all from one terminal window. No need to open multiple terminals.
 
 ### Use Voice Dictation
-[Wispr Flow](https://wisprflow.ai) is a voice dictation tool that actually understands code. You can speak naturally and it formats everything correctly, including syntax, file names, and code structure. It has deep integrations with Cursor, VS Code, and Windsurf. Some people hit 179 WPM with it, which is insane for writing code. If you want to support me, here's my [referral link](https://wisprflow.ai/r?ARIO16).
+[Wispr Flow](https://wisprflow.ai) is a voice dictation tool that actually understands code. You can speak naturally and it formats everything correctly, including syntax, file names, and code structure. It has deep integrations with Cursor, and VS Code. If you want to support me, here's my [referral link](https://wisprflow.ai/r?ARIO16).
 
 ---
 
