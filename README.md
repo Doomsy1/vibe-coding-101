@@ -12,7 +12,7 @@ A guide to AI-assisted coding tools, specifically for university students who ge
 | **GitHub Copilot** | ~$80/month in usage | IDE integration | Free trial |
 | **OpenAI Codex** | Generous limits | Experimentation | Paid only |
 | **Antigravity** | Good limits | Planning | Free (Google, data concerns) |
-| **Gemini CLI** | ~$20/day | Backup option | Free |
+| **Gemini CLI** | ~$20/day | Backup option | Free Year (w/ Pro) |
 | **AI Studio** | Basically unlimited | Chatting, not coding | Free |
 | **Perplexity** | Pro features | Research + coding | Free year |
 | **Gemini Pro** | Hard to hit limits | General use | Free year |
