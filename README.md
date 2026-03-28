@@ -1,4 +1,4 @@
-# Vibe Coding 101: AI Coding Tools for Students
+# Agentic Engineering 101: AI Coding Tools for Students
 
 A guide to AI-assisted coding tools, specifically for university students who get ridiculous amounts of free credits and trials. Seriously, take advantage of this while you can.
 
@@ -111,4 +111,4 @@ It's rare that I run out of all of them, but it does happen sometimes.
 
 University students get absurd benefits from these companies: free trials, massive credit allowances, the works. This guide is specifically about maximizing those perks while you still have your university email.
 
-Happy vibe coding!
+Happy coding!
