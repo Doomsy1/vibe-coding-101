@@ -19,7 +19,7 @@ A guide to AI-assisted coding tools, specifically for university students who ge
 
 ---
 
-## Tier 1: The Good Stuff
+## Tier 1: Worth Paying for
 
 ### [OpenAI Codex](https://openai.com/codex/)
 This is the best tool right now. Not "one of the best." Just the best. If you're serious about agentic coding, this is what I'd recommend first. The limits are insanely hard to hit, to the point that they feel basically unlimited. GPT-5.4 is also the best model overall for coding right now. The one place it still kinda sucks is UI and front-end. It gets sloppy fast, so if I care about how something looks, I'd much rather use Claude 4.6 Opus or Gemini 3.1 Pro.
@@ -30,22 +30,22 @@ Claude Code is still really, really good. Its planning mode is awesome, and for 
 ### [Cursor](https://cursor.com/)
 You get around $45/month in API credits, and eligible university students can get [one free year of Cursor Pro](https://cursor.com/en-US/students). I still like it for random vibe-coding experiments and quick edits inside the editor. It's not my main thing anymore, but it's still very nice to have around.
 
-### [OpenCode](https://opencode.ai/)
-Another CLI tool, and honestly still one of the best user experiences of any of them. If you want free models, my current recommendations are Nemotron 3 Super and Minimax M2.5. Obviously they'll use your data for whatever they want, but it feels very similar to Claude Code, maybe even more polished. The UI has some finicky behaviors, but overall very solid. You can also plug in other providers like Google to use their API credits, which is nice.
-
 ---
 
-## Tier 2: Solid Alternatives
+## Tier 2: Good because it's free
 
 ### [GitHub Copilot](https://github.com/features/copilot)
 You get around $80/month of usage. The annoying part is that it isn't measured like normal API credits, so you can't be quite as reckless with it. Still, verified students get Copilot's premium features for free through the [GitHub Student Developer Pack](https://education.github.com/pack), which is a pretty absurd deal.
+
+### [OpenCode](https://opencode.ai/)
+Another CLI tool, and honestly still one of the best user experiences of any of them. If you want free models, my current recommendations are Nemotron 3 Super and Minimax M2.5. Obviously they'll use your data for whatever they want, but it feels very similar to Claude Code, maybe even more polished. The UI has some finicky behaviors, but overall very solid. You can also plug in other providers like Google to use their API credits, which is nice.
 
 ### Codex Student Note
 Codex still isn't just straight-up free for students forever, which is unfortunate. But OpenAI did recently add [$100 in free API credits for eligible students](https://developers.openai.com/community/students), which is enough to get started without immediately paying. After that, though, if you're going to spend money on one thing, this is the one I would spend it on.
 
 ---
 
-## Tier 3: Free Options
+## Tier 3: Other Free Options
 
 ### [Antigravity](https://antigravity.google/) (Google)
 Free for everyone, which is a little concerning because they probably munch on your data. Pretty good usage limits though. Not exactly sure how much, but it works well for planning. The UX isn't great, but it's definitely usable.
@@ -60,7 +60,7 @@ Not really for coding, but great for chatting. Usage limits? They basically don'
 Perplexity changed the student deal, so it's not the crazy free-year thing anymore. Right now it's more like [student verification](https://www.perplexity.ai/help-center/en/articles/12162294-how-to-verify-your-student-status), one month of Pro, and then extra months through referrals. Still useful though, especially since you can bounce between a bunch of frontier models. Here's my [referral link](https://plex.it/referrals/8N3ELADE) if you want to help me out.
 
 ### [Gemini Pro](https://gemini.google/)
-Google's older student offer was better. The current [Gemini for Students](https://gemini.google/students/) page points to a one month Google AI Pro trial in some regions instead of the old year-long deal. Still, if you already have it, the limit is weirdly hard to hit in practice.
+Google's older student offer was better. The current [Gemini for Students](https://gemini.google/students/) has a one month Google AI Pro trial in some regions instead of the old year-long deal. Still, if you already have it, the limit is weirdly hard to hit in practice.
 
 ---
 
@@ -112,7 +112,7 @@ When I don't want to use my good credits on something less important:
 3. Use **Cursor** for experiments
 4. Fall back to **OpenCode**, **Copilot**, **Antigravity**, or **Gemini CLI** when I want to save money
 
-For most things, though, I just use Codex now because it's that good. That's basically the whole story.
+For most things, though, I just use Codex now because it's that good.
 
 ---
 
