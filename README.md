@@ -218,3 +218,7 @@ The exact model matters less than the engineering loop around it: give the agent
 - [Perplexity Education Pro](https://www.perplexity.ai/help-center/en/articles/12590157-what-is-education-pro)
 
 Happy coding. Use the credits before somebody in finance notices.
+
+## License
+
+This guide is licensed under [Creative Commons Attribution 4.0 International](./LICENSE). Share and adapt it with attribution.
