@@ -1,3 +1,5 @@
+
+
 # Agentic Engineering 101: AI Coding Tools for Students
 
 A guide to AI coding agents for university students who get ridiculous amounts of free compute, credits, and trials. Seriously, use the hell out of the student perks while you still have them. These companies are lighting money on fire to win users. You might as well stand near the fire.
@@ -143,6 +145,7 @@ Useful starting points:
 - [Codex subagents](https://learn.chatgpt.com/docs/agent-configuration/subagents)
 - [Claude Code skills](https://code.claude.com/docs/en/skills)
 - [Claude Code subagents](https://code.claude.com/docs/en/sub-agents)
+- [Example custom skills and agents in this repository](./.claude)
 
 ### Use One Branch or Worktree per Task
 
